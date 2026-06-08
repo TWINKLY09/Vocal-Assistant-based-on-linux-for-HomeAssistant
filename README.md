@@ -1,0 +1,1 @@
+# Vocal-Assistant-based-on-linux-for-HomeAssistant
