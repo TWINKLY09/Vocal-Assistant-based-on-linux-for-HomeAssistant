@@ -34,6 +34,6 @@ La photo du produit a été généré par Google gemini.
 ![Contour bottom - dessous](Contour/Contour_bottom-dessous.png)
 
 
-![Front top - Face dessus](Front/Front_top-Face_dessus.png)
+![Front top - Face dessus](Front-Face/Front_top-Face_dessus.png)
 
-![Front bottom - Face dessous](Front/Front_bottom-Face_dessous.png)
+![Front bottom - Face dessous](Front-Face/Front_bottom-Face_dessous.png)
