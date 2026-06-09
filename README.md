@@ -46,11 +46,12 @@ N'hésite pas à ouvrir une issue ou une pull request. Même un retour ou une qu
 > *Photos coming soon — PCB is being assembled.*
 > *Photos à venir — le PCB est en cours d'assemblage.*
 
-<!-- Une fois les photos disponibles, les mettre dans le dossier images/ et décommenter :
+
+<!-- Une fois les photos disponibles, les mettre dans le dossier images/ et décommenter : -->
+
 ![PCB Cerveau top](images/cerveau-top.jpg)
 ![PCB Dessus](images/dessus-top.jpg)
 ![Stack complet](images/stack-full.jpg)
--->
 
 ---
 
