@@ -8,19 +8,32 @@ La photo du produit a été généré par Google gemini.
 
 ![Voice Assistant - Assistant vocal](Voice_Assistant-Assistant_vocal.png)
 
-![Brain top - Cerveau dessus](Images/Brain/Brain_top-Cerveau_dessus.png)
-![Brain bottom - Cerveau dessous](Images/Brain/Brain_bottom-Cerveau_dessous.png)
-![Brain bottom connectors](Images/Brain/Brain_bottom_connectors.png)
-![Brain front connectors](Images/Brain/Brain_front_connectors.png)
 
-![Bottom top - Bas dessus](Images/Bottom/Bottom_top-Bas_dessus.png)
-![Bottom underside - Bas dessous](Images/Bottom/Bottom_underside-Bas_dessous.png)
+![Brain top - Cerveau dessus](Brain-Cerveau/Brain_top-Cerveau_dessus.png)
 
-![Top topside - Dessus superieure](Images/Top/Top_topside-Dessus_superieure.png)
-![Top underside - Dessus inferieure](Images/Top/Top_underside-Dessus_inferieure.png)
+![Brain bottom - Cerveau dessous](Brain-Cerveau/Brain_bottom-Cerveau_dessous.png)
 
-![Contour top - dessus](Images/Contour/Contour_top-dessus.png)
-![Contour bottom - dessous](Images/Contour/Contour_bottom-dessous.png)
 
-![Front top - Face dessus](Images/Front/Front_top-Face_dessus.png)
-![Front bottom - Face dessous](Images/Front/Front_bottom-Face_dessous.png)
+![Brain bottom connectors](Brain-Cerveau/Brain_bottom_connectors.png)
+
+![Brain front connectors](Brain-Cerveau/Brain_front_connectors.png)
+
+
+![Bottom top - Bas dessus](Bottom-Bas/Bottom_top-Bas_dessus.png)
+
+![Bottom underside - Bas dessous](Bottom-Bas/Bottom_underside-Bas_dessous.png)
+
+
+![Top topside - Dessus superieure](Top-Dessus/Top_topside-Dessus_superieure.png)
+
+![Top underside - Dessus inferieure](Top-Dessus/Top_underside-Dessus_inferieure.png)
+
+
+![Contour top - dessus](Contour/Contour_top-dessus.png)
+
+![Contour bottom - dessous](Contour/Contour_bottom-dessous.png)
+
+
+![Front top - Face dessus](Front/Front_top-Face_dessus.png)
+
+![Front bottom - Face dessous](Front/Front_bottom-Face_dessous.png)
