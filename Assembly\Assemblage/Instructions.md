@@ -5,7 +5,7 @@ Ce fichier contien des instructions sur l'assemblage de cet apareil, décris les
 
 
 Brain_front_connectors
-![Brain front connectors](Brain-Cerveau/Brain_front_connectors.png)
+![Brain front connectors](/Images/Brain-Cerveau/Brain_front_connectors.png)
 
 
 
@@ -15,7 +15,7 @@ Brain_front_connectors
 
 
 Brain_bottom_connectors
-![Brain bottom connectors](Brain-Cerveau/Brain_bottom_connectors.png)
+![Brain bottom connectors](/Images/Brain-Cerveau/Brain_bottom_connectors.png)
 
 - The connector circled in Green is to connect the top_pcb. / Le connecteur entouré en vert sert à connecter le circuit du dessus.
 - The connector circled in violet is to connect an optionnal rotary encoder. / Le connecteur entouré en violet set à connecter un encodeur rotatif optionnel.
