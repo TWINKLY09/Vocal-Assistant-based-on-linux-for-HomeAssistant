@@ -6,7 +6,7 @@ La photo du produit a été généré par Google gemini.
 
 
 
-![Voice Assistant - Assistant vocal](Images/Voice_Assistant-Assistant_vocal.png)
+![Voice Assistant - Assistant vocal](Voice_Assistant-Assistant_vocal.png)
 
 ![Brain top - Cerveau dessus](Images/Brain/Brain_top-Cerveau_dessus.png)
 ![Brain bottom - Cerveau dessous](Images/Brain/Brain_bottom-Cerveau_dessous.png)
