@@ -1,5 +1,7 @@
 # 🎙️ Voice Assistant — Open Hardware
 
+![PCB Cerveau](Images/Voice_Assistant\Assistant_vocal.png)
+
 > **⚠️ Work in progress / En cours de développement**
 > 
 > Hardware is being validated, software is not yet functional end-to-end.
