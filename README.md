@@ -1,6 +1,7 @@
 # 🎙️ Voice Assistant — Open Hardware
 
 > **⚠️ Work in progress / En cours de développement**
+> 
 > Hardware is being validated, software is not yet functional end-to-end.
 > **3D enclosure files are not yet available** — mechanical design is still in progress.
 >
