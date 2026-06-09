@@ -9,12 +9,13 @@ Brain_front_connectors
 
 - The connector circled in violet is to connect the Front_PCB. / Le connecteur entouré en violet sert à connecter le Circuit_face.
 - The connector circled in black is to connect the MAX98357A module (based on ADAFRUIT's design). / Le connecteur entouré en noir sert à connecter le module MAX98357A (basé sur le design d'ADAFRUIT).
-- The first connector circled in cyan is to connect the Bottom_PCB. / Le premier connecteur entouré en cyan sert à connecter le Circuit_Bas.
-- The
-- The
-- The
-- The 
-- The 
+- The connector circled in light-blue is to connect the Bottom_PCB (Power). / Le premier connecteur entouré en cyan sert à connecter le Circuit_Bas (Alim).
+- The connector circled in magenta is to connect to the Contour_PCB (Data and Power). / Le connecteur entouré en magenta sert à connecter le pcb du contour (Données et Alim).
+- The usb-c connector circled in blue is to debug and programm the device before it's assembled. / Le connecteur usb-c entouré en bleu sert à débeugué et programmer l'apareil avant d'être assemblé. 
+- The connector circled in pink is tied to the linux brain and act as a host usb port. It's made for peripherals and accessories. / Le connecteur entouré en rose est rataché au cerveau liux et se comporte comme un port usb hôte. Il sert à connecter des périphériques et accessoires.
+- The connector circled in yellow is the primary micro sd card slot and cannot be used simultaneously with the second one. / Le connecteur entourré en jaune est le slot de carte micro sd principal et ne peut pas être utilisé simultanément avec le second.
+- The connector circled in red is to connect an SPDIF/TOSLINK fiber cable for outpouting audio. / Le connecteur entouré en rouge sert à connecter un cable fibre SPDIF/TOSLINK pour faire sortir l'audio.
+- The connector circled in turquoise is to connect an ethernet cable. / Le connecteur entouré en turquoise sert à conncter un cable ethernet.
 
 
 Brain_bottom_connectors
