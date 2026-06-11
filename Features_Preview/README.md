@@ -62,6 +62,7 @@ When the mics are on. / Quand les micros sont actifs.
 ![Démonstration](/Images/animations/status_mic_on.gif)
 
 When the ESP32 encountered an error. / Quand l'ESP32 à rencontré une erreur.
+
 ![Démonstration](/Images/animations/status_esp_error.gif)
 
 And for now that's all the animations programmed but I'm open to hear your ideas for future animations or functions. / Pour l'instant ce sont toutes les animations programmées mais je suis ouvert à vous idées pour de futures animations ou des fonctions.
