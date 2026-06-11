@@ -4,7 +4,7 @@ Ces fichiers GIF montrent à quoi sont supposer ressembler chaques animations su
 These GIFs demonstrate how in every situation the device behave. -- Ces GIF montrent comment l'apareil se comporte dans chaque situation.
 
 When booting. / Pendant le démarrage.
-![Démonstration](/Images/animations/demo.gif)
+![Démonstration](/Images/animations/anim_08_boot.gif)
 
 When muted. / Quand les micros sont désactivés.
 ![Démonstration](/Images/animations/demo.gif)
