@@ -4,4 +4,4 @@ Most of the files are in step format but the ones that aren't was because ther w
 
 Ces fichier sont rendus publiques pour permettre au personnes de créer un boîtier pour l'apareil.
 Veilliez noter que la sérigraphie n'est peut être pas à jour sur ces fichiers 3D
-La plupart des fichiers sont en format .step mais ce qui ne le sont pas , c'est car leur taille est >20Moctet.
+La plupart des fichiers sont en format .step mais ce qui ne le sont pas , c'est car leur taille était supérieure à 20Moctet.
