@@ -7,7 +7,7 @@ When booting. / Pendant le démarrage.
 ![Démonstration](/Images/animations/anim_08_boot.gif)
 
 When muted. / Quand les micros sont désactivés.
-![Démonstration](/Images/animations/anim_07_muted)
+![Démonstration](/Images/animations/anim_07_muted.gif)
 
 When an error occured. / Quand une erreur est survenue.
 ![Démonstration](/Images/animations/anim_04_error.gif)
