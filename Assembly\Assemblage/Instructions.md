@@ -4,7 +4,7 @@ Ce fichier contien des instructions sur l'assemblage de cet apareil, décris les
 
 
 
-Brain_front_connectors
+Brain_front_connectors / Connecteurs_dessus_cerveau.
 ![Brain front connectors](/Images/Brain-Cerveau/Brain_front_connectors.png)
 
 - The connector circled in violet is to connect the Front_PCB. / Le connecteur entouré en violet sert à connecter le Circuit_face.
@@ -18,7 +18,7 @@ Brain_front_connectors
 - The connector circled in turquoise is to connect an ethernet cable. / Le connecteur entouré en turquoise sert à conncter un cable ethernet.
 
 
-Brain_bottom_connectors
+Brain_bottom_connectors / Connecteurs_dessous_cerveau.
 ![Brain bottom connectors](/Images/Brain-Cerveau/Brain_bottom_connectors.png)
 
 - The connector circled in Green is to connect the top_pcb. / Le connecteur entouré en vert sert à connecter le circuit du dessus.
