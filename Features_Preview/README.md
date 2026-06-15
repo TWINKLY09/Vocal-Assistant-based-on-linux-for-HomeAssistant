@@ -1,7 +1,5 @@
-The GIFs files shows how every led animations is supposed to behave.
-Ces fichiers GIF montrent à quoi sont supposer ressembler chaques animations sur les led. 
-
-These GIFs demonstrate how in every situation the device behave. -- Ces GIF montrent comment l'apareil se comporte dans chaque situation.
+The GIFs files shows how every led animations and how the device is supposed to behave.
+Ces fichiers GIF montrent à quoi sont supposer ressembler chaques animations sur les led et comment se comporte l'apareil dans chaque situation.. 
 
 When booting. / Pendant le démarrage.
 
