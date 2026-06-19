@@ -50,7 +50,7 @@ N'hésite pas à ouvrir une issue ou une pull request. Même un retour ou une qu
 
 <!-- Une fois les photos disponibles, les mettre dans le dossier images/ et décommenter : -->
 
-![PCB Cerveau top](Images/cerveau-top.jpg)
+![PCB Cerveau top](/Images/cerveau-top.jpg)
 ![PCB Dessus](/Images/dessus-top.jpg)
 ![Stack complet](/Images/stack-full.jpg)
 
