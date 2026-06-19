@@ -51,7 +51,7 @@ N'hésite pas à ouvrir une issue ou une pull request. Même un retour ou une qu
 <!-- Une fois les photos disponibles, les mettre dans le dossier images/ et décommenter : -->
 
 ![PCB Cerveau top](/Images/Brain-Cerveau/Brain_top-Cerveau_dessus.png)
-![PCB Dessus](/Images/Top-Dessus/Front_top-Face_dessus.png)
+![PCB Dessus](/Images/Top-Dessus/Top_topside-Dessus_superieure.png)
 ![Stack complet](/Images/Voice_Assistant-Assistant_vocal.png)
 
 ---
