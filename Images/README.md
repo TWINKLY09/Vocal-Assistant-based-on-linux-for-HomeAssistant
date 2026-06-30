@@ -27,7 +27,7 @@ Bottom_top-Bas_dessus
 ![Bottom top - Bas dessus](Bottom-Bas/Bottom_top-Bas_dessus.png)
 
 Bottom_underside-Bas_dessous
-![Bottom underside - Bas dessous](Bottom-Bas/Top_underside-Dessous_inferieure.png)
+![Bottom underside - Bas dessous](Bottom-Bas/Bottom_underside-Bas_dessous.png)
 
 
 Top_topside-Dessus_superieure
