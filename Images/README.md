@@ -26,21 +26,21 @@ Brain_front_connectors
 Bottom_top-Bas_dessus
 ![Bottom top - Bas dessus](Bottom-Bas/Bottom_top-Bas_dessus.png)
 
-Bottom_top-Bas_dessous
+Bottom_underside-Bas_dessous
 ![Bottom underside - Bas dessous](Bottom-Bas/Top_underside-Dessous_inferieure.png)
 
 
 Top_topside-Dessus_superieure
 ![Top topside - Dessus superieure](Top-Dessus/Top_topside-Dessus_superieure.png)
 
-Top_topside-Dessus_inferieure
-![Top underside - Dessus inferieure](Top-Dessus/Top_underside-Dessus_inferieure.png)
+Top_underside-Dessous_inferieure
+![Top underside - Dessus inferieure](Top-Dessus/Top_underside-Dessous_inferieure.png)
 
 
 Contour_bottom-dessus
 ![Contour top - dessus](Contour/Contour_top-dessus.png)
 
-Contour_bottom-dessous
+Contour_-dessous
 ![Contour bottom - dessous](Contour/Contour_bottom-dessous.png)
 
 
